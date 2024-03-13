@@ -177,3 +177,6 @@ import android.widget.TextView;
 ![image](https://github.com/AtchayaSundaramoorthy/GUI-components/assets/119393516/e94e8e6a-79d7-45f9-81ed-03de0b063b5d)
 
 ![image](https://github.com/AtchayaSundaramoorthy/GUI-components/assets/119393516/0f708451-1e90-4110-bd85-fb5a56983ee1)
+
+## RESULT
+Thus a simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed sucessfully
